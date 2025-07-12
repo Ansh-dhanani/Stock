@@ -342,7 +342,7 @@ const CompanyProfitPredictor = () => {
   const colors = ['#3b82f6', '#ef4444', '#10b981', '#f59e0b', '#8b5cf6', '#06b6d4', '#f97316', '#84cc16', '#ec4899', '#6366f1'];
 
   return (
-    <div className="min-h-screen"> 
+    <div className="min-h-screen background-image: linear-gradient(to left top, #816bd1, #6e81df, #6195e6, #5ea7e9, #69b7e9, #59b6ef, #43b6f4, #20b5fa, #00a1ff, #008aff, #006dff, #6a41ff);"> 
       {/* Header */}
       <div className=" rounded-full bg-white shadow-lg border-b border-slate-200">
         <div className="max-w-7xl  mx-auto px-4 sm:px-6 lg:px-8">
