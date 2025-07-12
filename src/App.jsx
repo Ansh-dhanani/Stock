@@ -369,12 +369,12 @@ const CompanyProfitPredictor = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         {/* Tab Navigation */}
         <div className="mb-8">
-          <div className="flex space-x-1 bg-white justify-evenly np-1 rounded-lg shadow-sm border border-slate-200">
+          <div className="flex space-x-1 p-2.5 bg-white justify-evenly np-1 rounded-lg shadow-sm border border-slate-200">
             <button
               onClick={() => setActiveTab('upload')}
               className={`px-4 py-2  rounded-md font-medium transition-all ${activeTab === 'upload'
                 ? 'bg-blue-600 text-white shadow-sm'
-                : 'text-slate-100 hover:text-slate-900 hover:bg-slate-50'
+                : 'text-slate-600 hover:text-white hover:bg-blue-700'
                 }`}
             >
               <Upload className="h-4 w-4 inline mr-2" />
@@ -384,7 +384,7 @@ const CompanyProfitPredictor = () => {
               onClick={() => setActiveTab('analysis')}
               className={`px-4 py-1 rounded-md font-medium transition-all ${activeTab === 'analysis'
                 ? 'bg-blue-600 text-white shadow-sm'
-                : 'text-slate-600 hover:text-slate-900 hover:bg-slate-50'
+                : 'text-slate-600 hover:text-white hover:bg-blue-600'
                 }`}
               disabled={data.length === 0}
             >
