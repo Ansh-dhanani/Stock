@@ -339,7 +339,7 @@ const CompanyProfitPredictor = () => {
   const colors = ['#3b82f6', '#ef4444', '#10b981', '#f59e0b', '#8b5cf6', '#06b6d4', '#f97316', '#84cc16', '#ec4899', '#6366f1'];
 
   return (
-    <div className="min-h-screen bg-slate-50">
+    <div className="min-h-screen bg-slate-200">
       {/* Header */}
       <div className="bg-white shadow-lg border-b border-slate-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -428,7 +428,7 @@ const CompanyProfitPredictor = () => {
                     : 'text-slate-600 hover:text-white hover:bg-blue-700'
                     }`}
                 >
-                  <Upload className="h-4 w-4 inline mr-2" />
+                  <Upload className="h-10 w-4 inline mr-2" />
                   <span className="hidden sm:inline">Upload Data</span>
                   <span className="sm:hidden">Upload</span>
                 </button>
