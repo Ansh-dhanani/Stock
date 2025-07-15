@@ -1,4 +1,4 @@
-
+```markdown
 # 📈 Stock
 
 Welcome to **Ansh-dhanani/Stock**, a React-based project designed for intuitive stock management. Although detailed descriptions and features are currently under development, this project is set to provide efficient stock tracking functionalities. Dive in to explore its setup, usage, and contribution opportunities.
