@@ -118,7 +118,8 @@ This project is not currently licensed. If you are interested in licensing infor
 
 Special thanks to all contributors, including our project maintainer:
 
-- [Ansh Dhanani](https://github.com/Ansh-dhanani) - Creator and Maintainer
+- [Ansh Dhanani](https://github.com/Ansh-dhanani) - Frontend
+- [Manan Panchal](https://github.com/mananjp) - Backend
 
 Contributions are what make open-source projects amazing. Thank you for considering contributing to Stock!
 
