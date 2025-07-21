@@ -88,10 +88,8 @@ export default App;
 
 ## 📸 Screenshots
 
-*(Placeholder images for demonstration purposes)*
-
 ![Screenshot 1](s2.png)
-![Screenshot 2](s1.png)
+![Screenshot 2](s2.png)
 
 Feel free to contribute screenshots showcasing different features or UI states.
 
