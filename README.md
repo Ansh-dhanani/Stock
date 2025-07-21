@@ -128,6 +128,11 @@ Contributions are what make open-source projects amazing. Thank you for consider
 
 ---
 
+## Live Site Preview:
+-link: [StockPrediction_AI](https://stockpredicti0n.netlify.app/)
+
+---
+
 ## 🛠️ Support
 
 For support or queries, please reach out via email at [support@example.com](mailto:support@example.com) or create an issue in the repository.
