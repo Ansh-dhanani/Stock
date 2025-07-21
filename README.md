@@ -1,4 +1,3 @@
-<img width="1024" height="902" alt="image" src="https://github.com/user-attachments/assets/72281e8b-990a-4183-812f-b172cb4df0a4" />
 # 📈 Stock
 
 Welcome to **Stock** — a dynamic and modern React project designed to track, visualize, and manage stocks effortlessly. Dive into the world of stocks with ease and elegance using this application.
