@@ -1,4 +1,4 @@
-
+<img width="1024" height="902" alt="image" src="https://github.com/user-attachments/assets/72281e8b-990a-4183-812f-b172cb4df0a4" />
 # 📈 Stock
 
 Welcome to **Stock** — a dynamic and modern React project designed to track, visualize, and manage stocks effortlessly. Dive into the world of stocks with ease and elegance using this application.
@@ -90,9 +90,8 @@ export default App;
 
 *(Placeholder images for demonstration purposes)*
 
-![Screenshot 1](https://via.placeholder.com/600x300.png?text=Screenshot+1)
-![Screenshot 2](https://via.placeholder.com/600x300.png?text=Screenshot+2)
-![Screenshot 3](https://via.placeholder.com/600x300.png?text=Screenshot+3)
+![Screenshot 1](s2.png)
+![Screenshot 2](s1.png)
 
 Feel free to contribute screenshots showcasing different features or UI states.
 
