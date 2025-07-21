@@ -140,5 +140,3 @@ We hope you find Stock useful and inspiring! Happy tracking! 💹
 
 ---
 ```
-
-**Note:** Please replace placeholder texts, emails, and URLs with actual content applicable to the project for real-world usage.
