@@ -110,7 +110,7 @@ For detailed contribution guidelines, refer to [CONTRIBUTING.md](./CONTRIBUTING.
 
 ## 📜 License
 
-This project is not currently licensed. If you are interested in licensing information, feel free to contact the maintainer.
+This project is not currently licensed. If you are interested in licensing information, feel free to contact the me.
 
 ---
 
